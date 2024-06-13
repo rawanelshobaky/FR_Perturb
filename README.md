@@ -1,5 +1,5 @@
 # Author: Rawan Elshobaky 
-- I summarized the work from https://www.nature.com/articles/s41587-023-01964-9 -- None of this is my work.
+- I summarized the work from https://www.nature.com/articles/s41587-023-01964-9. I debugged and documented their run_FR_Perturb.py code.
 
 # Date: 3/11/24
 
